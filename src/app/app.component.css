@@ -1,0 +1,15 @@
+mat-icon {
+  margin-right: 4px;
+}
+#homepage-card {
+  text-align: center;
+}
+h1 {
+  text-align: left;
+  font-family: sans-serif;
+}
+body {
+  width: 75%;
+  margin: auto;
+  padding-top: 50px;
+}
